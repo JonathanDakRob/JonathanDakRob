@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Jonathan Roberts
-- 👀 I’m interested in Software Developing and Embedded Software Engineering. I have a bachelor's in Computer Engineering and enjoy writing and learning new software.
+- 👋 Hi, I’m Jonathan Dak-ban Roberts
+- I’m interested in IT, Software Devlopment and Artifical Intelligence.
+- I have a Bachelor's in Computer Engineering and I'm pursuing my Master's in Computer Science.
 - 📫 Reach me at JonathanRoberts5423@gmail.com
 
 <!---
