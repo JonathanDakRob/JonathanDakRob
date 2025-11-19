@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Jonathan Dak-ban Roberts
 - I’m interested in IT, Software Devlopment and Artifical Intelligence.
 - I have a Bachelor's in Computer Engineering and I'm pursuing my Master's in Computer Science.
-- 📫 Reach me at JonathanRoberts5423@gmail.com
+- You can find my resume here on my profile.
+- Reach me at:
+- ✉️ jonathanroberts5423@gmail.com
+- 🔗 www.linkedin.com/in/jonathan-dr
 
 <!---
 JonathanDakRob/JonathanDakRob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
