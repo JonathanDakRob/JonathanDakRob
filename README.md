@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Dak-ban Roberts
-- I’m interested in IT, Software Devlopment and Artifical Intelligence.
+- I’m interested in Data Science/Analytics, Software Devlopment and Artifical Intelligence.
 - I have a Bachelor's in Computer Engineering and I'm pursuing my Master's in Computer Science.
 - You can find my resume here on my profile.
 - Reach me at:
